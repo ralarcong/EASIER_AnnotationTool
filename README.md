@@ -1,1 +1,3 @@
 # EASIER_AnnotationTool
+
+## REQUIREMENTS:
